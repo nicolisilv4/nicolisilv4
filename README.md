@@ -1,6 +1,6 @@
 Boas vindas ao meu perfil ✨🌊.
 
-Meu nome é Nicoli da Silva Ferreira
+Meu nome é **Nicoli Silva**
 
 Estou estudando na Alura
 
